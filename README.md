@@ -9,7 +9,7 @@
 **English:** This is a showcase for a free, online AI Ad Generator. Create professional advertising materials, posters, and social media posts from simple text descriptions. It's the perfect tool for marketers, business owners, and designers to produce high-quality ad creatives in seconds.
 
 **中文简介：**
-免费在线 AI 广告制作工具！通过文字描述智能制作各种风格的广告宣传图，支持多种营销场景，轻松产出专业的广告物料，让您的营销活动更具吸引力。
+免费在线 AI 广告制作工具！通过文字描述智能制作各种风格的广告宣传图，支持多种营销场景，轻松产出专业的广告物料，让您的营销活动更具吸引力
 
 ## ➡️ [**立即免费制作您的广告 (Click to Use for Free)**](https://www.eyuseo.com/zh/image-generator/ai-ad-production)
 
